@@ -1,0 +1,14 @@
+{
+    "name": "Koturn.LilCustomAutoAsmdef.Editor",
+    "rootNamespace": "Koturn.LilCustomAutoAsmdef.Editor",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "jp.koturn.lilcustomautoasmdef",
+  "version": "1.0.0",
+  "displayName": "LilCustomAutoAsmdef",
+  "description": "Auto Assembly Definition File Generator for custom shader of lilToon.",
+  "unity": "2022.3",
+  "changelogUrl": "https://github.com/koturn/LilCustomAutoAsmdef/wiki/ChangeLog#v100",
+  "documentationUrl": "https://github.com/koturn/LilCustomAutoAsmdef/wiki",
+  "licensesUrl": "https://github.com/koturn/LilCustomAutoAsmdef/blob/v1.0.0/LICENSE",
+  "license": "MIT",
+  "keywords": ["lilToon", "Assembly Definition"],
+  "url" : "https://github.com/koturn/LilCustomAutoAsmdef/releases/download/v1.0.0/jp.koturn.lilcustomautoasmdef-1.0.0.zip"
+}

@@ -1,0 +1,13 @@
+{
+  "Packages": [
+    {
+      "UnityPackageName": "LilCustomAutoAsmdef.unitypackage",
+      "VpmName": "jp.koturn.lilcustomautoasmdef",
+      "Assets": [
+        {
+          "BasePath": "Assets/koturn/LilCustomAutoAsmdef"
+        }
+      ]
+    }
+  ]
+}
