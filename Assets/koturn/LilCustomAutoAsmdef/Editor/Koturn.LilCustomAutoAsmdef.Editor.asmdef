@@ -2,7 +2,9 @@
     "name": "Koturn.LilCustomAutoAsmdef.Editor",
     "rootNamespace": "Koturn.LilCustomAutoAsmdef.Editor",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": true,
     "overrideReferences": false,
